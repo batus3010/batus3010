@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Batuhan;Nice+to+meet+you+(%EF%BD%9E%EF%BF%A3%E2%96%BD%EF%BF%A3)%EF%BD%9E)](https://git.io/typing-svg)
 
-### ![](images/Developer.gif) About me
+ ![](images/Developer.gif) 
+ ## About me
 
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me: anhtubui574@gmail.com
