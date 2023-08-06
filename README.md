@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Batuhan;Nice+to+meet+you+(%EF%BD%9E%EF%BF%A3%E2%96%BD%EF%BF%A3)%EF%BD%9E)](https://git.io/typing-svg)
 
+### ![](images/Developer.gif) About me
 
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me: anhtubui574@gmail.com
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 I'm an aspiring and super pumped beginner web developer, ready to rock the world of web development! I'm on the lookout for opportunities to dive into HTML, CSS, and JavaScript to create awesome and user-friendly websites that people will love. I'm all about learning and growing, and I can't wait to become a web development whiz!
 
 Besides coding, another big passion of mine is playing **Arknights**, a fantastic mobile game 🎮! I love the strategic gameplay, unique characters, and captivating storyline it offers. It's just so much fun to collect operators and deploy them in tactical battles.
-![](images/364152091_655165586536296_1814195978211093221_n.gif)
+![](images/364152091_655165586536296_1814195978211093221_n.gif) (me petting nian plush)
 
