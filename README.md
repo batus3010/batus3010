@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **batus3010/batus3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me: anhtubui574@gmail.com
+
+## More details
+I'm an aspiring and super pumped beginner web developer, ready to rock the world of web development! I'm on the lookout for opportunities to dive into HTML, CSS, and JavaScript to create awesome and user-friendly websites that people will love. I'm all about learning and growing, and I can't wait to become a web development whiz!
