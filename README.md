@@ -1,5 +1,5 @@
 ## Heya, thanks for checking in
-
+I'm Tú, currently a final year student in PTIT
 <!--
 **batus3010/batus3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
