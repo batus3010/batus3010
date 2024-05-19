@@ -1,5 +1,5 @@
 ## Heya, thanks for checking in
-I'm Tú, currently a final year student in PTIT
+I'm Tú, currently a final year PTIT student major in Information Systems 
 <!--
 **batus3010/batus3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Learning Journey
-I'm currently focused on enhancing my skills in:
+Right now I'm focused on enhancing my skills in:
 - .NET
 ## 📫 Get in Touch
 - email: anhtubui574@gmail.com
