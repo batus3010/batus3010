@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anhtubui574@gmail.com
 
 ## More details
-
+I also love playing Arknights, a free-to-play tactical RPG/tower defense mobile game developed by Chinese developer Hypergryph.
 ![](images/364152091_655165586536296_1814195978211093221_n.gif) (me petting nian plush)
 
