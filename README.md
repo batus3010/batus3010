@@ -1,9 +1,6 @@
 ## Heya, thanks for checking in
 I'm Tú, currently a year fourth-year PTIT student major in Information Systems 
 
-## 🌱 Learning Journey
-Right now I'm focused on enhancing my skills in:
-- .NET
 ## 📫 Get in Touch
 - email: anhtubui574@gmail.com
 
